@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I’m Altyeb  
 
-<!--
-**altyebv/altyebv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS major, specialized in software.  
+Part-time bug creator, full-time bug fixer. 🐛🔧  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently  
+- 🧠 Autotuning my brain on ML & AI  
+- 📱 Crafting Android apps in Jetpack Compose  
+- ☕ Perfecting my coffee-to-code ratio  
+
+---
+
+### 🎲 Random Facts  
+- I once named a component **Metrooo** (because it orchestrated several sub-components).  
+  Yes… that makes it **Metrooo Boomin** 🎶  
+- Dark theme > Light theme (don’t @ me).  
+
+---
